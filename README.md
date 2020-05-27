@@ -3,7 +3,9 @@
 Calculadora Eletrodinâmica é um aplicativo que irá ajudar nos cálculos de física, especificamente na área física que estuda o aspecto dinâmico da eletricidade, ou seja, o movimento constante das cargas elétricas. Permitindo calcular a lei de Coulomb, força elétrica e campo elétrico.
 Está calculadora é perfeita para estudantes do ensino médio e superior, otimizando e auxiliando seu estudo da eletrodinâmica.
 
-![Logo](https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/README/Logo.gif)
+<p align="center">
+  <img width="358" height="256" src="https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/README/Logo.gif">
+</p>
 
 O aplicativo foi desenvolvido pelo App Inventor 2 (AI2), aplicação de código aberto originalmente criada pela Google, e atualmente mantida pelo Massachusetts Institute of Technology (MIT), que não requer experiência em programação, permitindo que recém-chegados à programação de computador criem aplicativos de software para o sistema operacional Android. Ele usa uma interface gráfica, muito semelhante ao do zero e da interface do usuário StarLogo TNG, que permite aos usuários arrastar e soltar objetos visuais para criar um aplicativo que pode ser executado em dispositivos Android.
 
