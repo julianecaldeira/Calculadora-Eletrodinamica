@@ -9,7 +9,7 @@ O aplicativo foi desenvolvido pelo App Inventor 2 (AI2), aplicação de código 
 
 ## Instalação
 
-Para instalar o aplicativo é necessário fazer o download do [Arquivo APK](https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/Calc_eletrodinamica.apk) em um aparelho Android ou emulador Android. Também é possível fazer o download do [Arquivo em AIA](ai2.appinventor.mit.edu/?galleryId=4794251859066880), formato suportado pelo MIT App Inventor, através da galeria própria do AI2, onde é possível ter acesso ao Projeto Calculadora Eletrodinâmica, sendo possível testar, modificar e compartilhar a sua versão.
+Para instalar o aplicativo é necessário fazer o download do [Arquivo APK](https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/Calc_eletrodinamica.apk) em um aparelho Android ou emulador Android. Também é possível fazer o download do [Arquivo em AIA](https://bit.ly/appinventorcalculadoraeletrodinamica), formato suportado pelo MIT App Inventor, através da galeria própria do AI2, onde é possível ter acesso ao Projeto Calculadora Eletrodinâmica, sendo possível testar, modificar e compartilhar a sua versão.
 
 ## Licença
 
