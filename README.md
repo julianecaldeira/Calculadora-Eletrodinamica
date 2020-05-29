@@ -18,7 +18,6 @@ O aplicativo foi desenvolvido no App Inventor 2 (AI2), aplicação de código ab
 <p align="center">
   <img width="433" height="466" src="https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/README/screens_1.png">
 </p>
-
 <p align="center">
   <img width="433" height="466" src="https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/README/screens_2.png">
 </p>
@@ -26,17 +25,21 @@ O aplicativo foi desenvolvido no App Inventor 2 (AI2), aplicação de código ab
 ## Instalação
 
 <p align="justify">
-Para instalar o aplicativo é necessário fazer o download do [Arquivo APK](https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/Calc_eletrodinamica.apk) em um aparelho Android ou emulador Android. Também é possível fazer o download do [Arquivo em AIA](https://bit.ly/appinventorcalculadoraeletrodinamica), formato suportado pelo MIT App Inventor, através da galeria própria do AI2, tendo acesso ao Projeto Calculadora Eletrodinâmica, sendo capaz de testar, modificar e compartilhar a sua versão.
+Para instalar o aplicativo é necessário fazer o download do Arquivo APK em um aparelho Android ou emulador Android. Também é possível fazer o download do Arquivo em .aia, formato suportado pelo MIT App Inventor, através da galeria própria do AI2, tendo acesso ao Projeto Calculadora Eletrodinâmica, sendo capaz de testar, modificar e compartilhar a sua versão.
 </p>
+
+* [Arquivo APK](https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/Calc_eletrodinamica.apk)
+* [Arquivo AIA](https://bit.ly/appinventorcalculadoraeletrodinamica)
 
 ## Licença
 
-<p align="justify">
 Este projeto é desenvolvido sob a licença MIT, veja o arquivo [LICENSE](https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/LICENSE) para mais detalhes.
-</p>
 
 ## Créditos
 
 <p align="center">
 Aplicativo desenvolvido por Juliane Ferreira Caldeira (25 de maio de 2020).
+</p>
+<p align="center">
+👷🏻‍♀️👩🏻‍💻🚀
 </p>
