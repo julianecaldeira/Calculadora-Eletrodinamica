@@ -16,10 +16,10 @@ O aplicativo foi desenvolvido no App Inventor 2 (AI2), aplicação de código ab
 ## Screens
 
 <p align="center">
-  <img width="433" height="466" src="https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/README/screens_1.png">
+  <img width="590" height="636" src="https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/README/screens_1.png">
 </p>
 <p align="center">
-  <img width="433" height="466" src="https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/README/screens_2.png">
+  <img width="590" height="636" src="https://github.com/julianecaldeira/Calculadora-Eletrodinamica/blob/master/README/screens_2.png">
 </p>
 
 ## Instalação
